@@ -12511,10 +12511,10 @@ jest-jasmine2@^26.4.2:
     pretty-format "^26.4.2"
     throat "^5.0.0"
 
-jest-junit@^11.1.0:
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/jest-junit/-/jest-junit-11.1.0.tgz#79cd53948e44d62b2b30fa23ea0d7a899d2c8d7a"
-  integrity sha512-c2LFOyKY7+ZxL5zSu+WHmHfsJ2wqbOpeYJ4Uu26yMhFxny2J2NQj6AVS7M+Eaxji9Q/oIDDK5tQy0DGzDp9xOw==
+jest-junit@^12.0.0:
+  version "12.0.0"
+  resolved "https://registry.yarnpkg.com/jest-junit/-/jest-junit-12.0.0.tgz#3ebd4a6a84b50c4ab18323a8f7d9cceb9d845df6"
+  integrity sha512-+8K35LlboWiPuCnXSyiid7rFdxNlpCWWM20WEYe6IZH6psfUWKZmSpSRQ5tk0C0cBeDsvsnIzcef5mYhyJsbug==
   dependencies:
     mkdirp "^1.0.4"
     strip-ansi "^5.2.0"
@@ -15910,10 +15910,10 @@ polished@^3.4.1:
   dependencies:
     "@babel/runtime" "^7.9.2"
 
-polished@^3.6.7:
-  version "3.6.7"
-  resolved "https://registry.yarnpkg.com/polished/-/polished-3.6.7.tgz#44cbd0047f3187d83db0c479ef0c7d5583af5fb6"
-  integrity sha512-b4OViUOihwV0icb9PHmWbR+vPqaSzSAEbgLskvb7ANPATVXGiYv/TQFHQo65S53WU9i5EQ1I03YDOJW7K0bmYg==
+polished@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/polished/-/polished-4.0.1.tgz#7aa7075bd3e4745e4ac59f0279e91100a20c4bcb"
+  integrity sha512-wsACmaPErslm30ZafPK6meKVh33h969O945jnP1nDw3xmfJTCPu9VHVfYVoH1kuE97dmTSDkXmCI/NsxN+U6Gg==
   dependencies:
     "@babel/runtime" "^7.9.2"
 
